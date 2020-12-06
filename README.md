@@ -17,7 +17,7 @@ Living in the city, we never have enough time to do all the things we want to do
 
 ![shopzap5](https://user-images.githubusercontent.com/68279005/101272403-d78ccc80-37b1-11eb-96cf-4ea2451ec0df.png)
 
-<h2><span style="text-decoration:underline;color:purple">&nbsp; Products that are available</span> </h2>
+<h2><span style="text-decoration:underline;color:purple"><i>Products that are available</i></span> </h2>
 
 - Home Essentials
 - Electronics
@@ -33,7 +33,7 @@ Living in the city, we never have enough time to do all the things we want to do
 [GITHUB REPOSITORY](https://github.com/ndrohith09/ecommerce)
 
 
-<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp; ShopZAP</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp;<i>ShopZAP</i></span> </h2>
 
 > **User can find wide variety of products in our website.Using the search option user can search any products they want.**<br>
 ![shopzap2](https://user-images.githubusercontent.com/68279005/101272366-9a283f00-37b1-11eb-9637-7803d306cfea.png)
@@ -44,17 +44,17 @@ Living in the city, we never have enough time to do all the things we want to do
 ![shopzap1](https://user-images.githubusercontent.com/68279005/101272375-a9a78800-37b1-11eb-99e0-c4087451edfb.png)
 
 
-<h2><span style="font-family:cursive;color:purple;padding-left:220px; font-size:36px">&nbsp;Payment Method</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:220px; font-size:36px">&nbsp;<i>Payment Method</i></span> </h2>
 
 >**Users can make their payment using paypal.We ensure that all payments are very secured and confidential.**<br>
 ![shopzap3](https://user-images.githubusercontent.com/68279005/101272401-d3f94580-37b1-11eb-83ef-54afcd1c7547.png)
 
-<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp;Testimonials</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp;<i>Testimonials</i></span> </h2>
 
 >**These are some of the testimonials given by our clients**
 ![shopzap4](https://user-images.githubusercontent.com/68279005/101272402-d65b9f80-37b1-11eb-9634-310cca226ff8.png)
 
-<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">Contact Us</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px"><i>Contact Us</i></span> </h2>
 
 ![shopzap 10](https://user-images.githubusercontent.com/68279005/101273436-736f0600-37bb-11eb-986b-431a68845112.png)
 
