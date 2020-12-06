@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2> <span style="font-family: 'arial bold''Lucida Sans';color:GRAY;font-weight:bolder;padding-left:210px; font-size:50px"> &nbsp;&nbsp; Shop ZAP</span> </h2>
+# Shop ZAP
 
 ![shopzap 8](https://user-images.githubusercontent.com/68279005/101272432-191d7780-37b2-11eb-997d-5abe673ad4d3.png)
 
