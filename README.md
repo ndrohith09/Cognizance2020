@@ -56,6 +56,6 @@ Living in the city, we never have enough time to do all the things we want to do
 ![shopzap 10](https://user-images.githubusercontent.com/68279005/101273436-736f0600-37bb-11eb-986b-431a68845112.png)
 
 >
-Copyright &copy;</script> All rights reserved | This WEBPAGE is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://github.com/ndrohith09/ecommerce" target="_blank">ShopZAP</a>
+Copyright &copy;All rights reserved | This WEBPAGE is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://github.com/ndrohith09/ecommerce" target="_blank">ShopZAP</a>
 
 
