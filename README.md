@@ -1,7 +1,7 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html>
 <body>
-<h2> <span style="font-family: 'arial bold''Lucida Sans';color:GRAY;font-weight:bolder;padding-left:210px; font-size:50px">Shop ZAP</span> </h2>
+<h2> <span style="font-family: 'arial bold''Lucida Sans';color:GRAY;font-weight:bolder;padding-left:210px; font-size:50px"> &nbsp;&nbsp; Shop ZAP</span> </h2>
 
 ![shopzap 8](https://user-images.githubusercontent.com/68279005/101272432-191d7780-37b2-11eb-997d-5abe673ad4d3.png)
 
@@ -9,7 +9,7 @@
 
 >**Our webpage can work on differnet screen sizes which has a good responsive view.**
 
-<h2><span style="text-decoration:underline;font-family:cursive;color:purple">About us</span> </h2>
+<h2><span style="text-decoration:underline;font-family:cursive;color:purple">&nbsp; About us</span> </h2>
 Shopping made easy for the people with 24/7 customer care for the convinence of the customer.The support team of us is the most efficient among other apps.
 
 
@@ -17,7 +17,7 @@ Living in the city, we never have enough time to do all the things we want to do
 
 ![shopzap5](https://user-images.githubusercontent.com/68279005/101272403-d78ccc80-37b1-11eb-96cf-4ea2451ec0df.png)
 
-<h2><span style="text-decoration:underline;color:purple">Products that are available</span> </h2>
+<h2><span style="text-decoration:underline;color:purple">&nbsp; Products that are available</span> </h2>
 
 - Home Essentials
 - Electronics
@@ -33,7 +33,7 @@ Living in the city, we never have enough time to do all the things we want to do
 [GITHUB REPOSITORY](https://github.com/ndrohith09/ecommerce)
 
 
-<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">ShopZAP</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp; ShopZAP</span> </h2>
 
 > **User can find wide variety of products in our website.Using the search option user can search any products they want.**<br>
 ![shopzap2](https://user-images.githubusercontent.com/68279005/101272366-9a283f00-37b1-11eb-9637-7803d306cfea.png)
@@ -44,12 +44,12 @@ Living in the city, we never have enough time to do all the things we want to do
 ![shopzap1](https://user-images.githubusercontent.com/68279005/101272375-a9a78800-37b1-11eb-99e0-c4087451edfb.png)
 
 
-<h2><span style="font-family:cursive;color:purple;padding-left:220px; font-size:36px">Payment Method</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:220px; font-size:36px">&nbsp;Payment Method</span> </h2>
 
 >**Users can make their payment using paypal.We ensure that all payments are very secured and confidential.**<br>
 ![shopzap3](https://user-images.githubusercontent.com/68279005/101272401-d3f94580-37b1-11eb-83ef-54afcd1c7547.png)
 
-<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">Testimonials</span> </h2>
+<h2><span style="font-family:cursive;color:purple;padding-left:250px; font-size:36px">&nbsp;Testimonials</span> </h2>
 
 >**These are some of the testimonials given by our clients**
 ![shopzap4](https://user-images.githubusercontent.com/68279005/101272402-d65b9f80-37b1-11eb-9634-310cca226ff8.png)
