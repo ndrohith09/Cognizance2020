@@ -1,4 +1,7 @@
-<h2><span style="font-family: 'arial bold''Lucida Sans';color:GRAY;font-weight:bolder;padding-left:210px; font-size:50px">Shop ZAP</span> </h2>
+<!Doctype html>
+<html>
+<body>
+<h2> <span style="font-family: 'arial bold''Lucida Sans';color:GRAY;font-weight:bolder;padding-left:210px; font-size:50px">Shop ZAP</span> </h2>
 
 ![shopzap 8](https://user-images.githubusercontent.com/68279005/101272432-191d7780-37b2-11eb-997d-5abe673ad4d3.png)
 
@@ -58,4 +61,6 @@ Living in the city, we never have enough time to do all the things we want to do
 >
 Copyright &copy;All rights reserved | This WEBPAGE is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://github.com/ndrohith09/ecommerce" target="_blank">ShopZAP</a>
 
+</body>
+</html>
 
