@@ -6,19 +6,14 @@
 5.	While NUM>0
 
 If yes 
-
 repeat  step 2
-
 else
-
 go to next step
 
 6.	 If NUM2==NUM
 
 print number is an Armstrong
-
 else
-
 Print number is not an Armstrong
 
 # FLOW CHART
