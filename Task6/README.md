@@ -26,5 +26,5 @@ else
 Print number is not an Armstrong
 
 # FLOW CHART
+![image](https://user-images.githubusercontent.com/73429989/102014350-751c6900-3d7b-11eb-9461-b089ae6fbcb0.png)
 
-![image](https://user-images.githubusercontent.com/73429989/102014177-b8c2a300-3d7a-11eb-9b2e-4433c832f2da.png)
